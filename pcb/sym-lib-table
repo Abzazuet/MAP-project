@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name mpu-6050-sold)(type Legacy)(uri ${KIPRJMOD}/mpu-6050-sold.lib)(options "")(descr ""))
+  (lib (name own)(type Legacy)(uri ${KIPRJMOD}/own.lib)(options "")(descr ""))
+)
